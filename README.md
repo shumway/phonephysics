@@ -1,6 +1,6 @@
 # Phone Physics
 
-Course materials based on “A Century of Physics on a Smart Phone,”
+This is a repository of course materials based on “A Century of Physics on a Smart Phone,”
 an interdisciplinary seminar I taught for the Barret Honors 
 College at Arizona State University in Spring 2013.
 I left academics to pursue a career in software development immediately after that
@@ -43,7 +43,7 @@ way to wrap up my academic career.
 
 ## Current State
 
-I am starting the public repo in 2016 to share my work with anyone who is interested
+I am starting this public repo in 2016 to share my work with anyone who is interested
 in using it.
 Currently the material is on a wordpress blog, http://phonephysics.wordpress.com,
 and I am migrating the data over to GitHub to make it easier for people to reuse or 
