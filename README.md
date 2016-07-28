@@ -1,7 +1,7 @@
 # Phone Physics
 
-Course materials from honors seminar “A Century of Physics on a Smart Phone.”
-This material is based on an interdisciplinary seminar I taught for the Barret Honors 
+Course materials based on “A Century of Physics on a Smart Phone,”
+an interdisciplinary seminar I taught for the Barret Honors 
 College at Arizona State University in Spring 2013.
 I left academics to pursue a career in software development immediately after that
 semester, and I would like to make these materials available for use by others.
@@ -17,21 +17,20 @@ the future.
 With some basic insights of where we are and how we got here, we can better plan our
 careers and envision the world we give to our children.
 
-The inital idea for this class came from [Prof. Ian Galbraith](Ian), when he and I were
+The inital idea for this class came from [Prof. Ian Galbraith](Galbraith), when he and I were
 hiking on the Isle of Skye.
-As we sat down for a snack break and some water, Ian pointed to his digital camera
-and said “you could teach an entire undergraduate physics major explainng this device.”
-Optics, semiconductor physics, batter technology, electronics, and materials science
-all underlie the small device.
+As we sat down for a snack break and some water, Ian picked up his camera
+and said “you could teach much of an undergraduate physics program just explaining this device.”
+Optics, semiconductor physics, battery technology, electronics, and materials science
+all underlie the operation of a small digital camera.
 
-A couple years later, the Barret Honors College at Arizona State University had
+A couple years later the Barret Honors College at Arizona State University had
 a call for new course ideas.
 I had thought about Ian's insight, and how it applied even stronger to smart phones,
-which added a stronger computing and wireless networking layer to digitcal cameras.
-I was also intrigued by the relation of two excellent books I had read:
+which added general computing, touchscreens, and wireless networking to digital cameras features.
+I was also intrigued by the the interplay of ideas between two excellent books I had read:
 _[Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age](Lightning)_
-by Michael Hiltzik
-and _[Steve Jobs](Jobs)_ by Walter Isaacson.
+by Michael Hiltzik and _[Steve Jobs](Jobs)_ by Walter Isaacson.
 To me, the human story behind innovation and the complex reasons for commercial
 success or failure is just as facinating as the magic of science and technology.
 
@@ -52,7 +51,7 @@ contribute to it.
 
 [CC0] : https://creativecommons.org/publicdomain/zero/1.0/
 
-[Ian] : https://www.hw.ac.uk/schools/engineering-physical-sciences/staff-directory/ian-galbraith.htm
+[Galbraith] : https://www.hw.ac.uk/schools/engineering-physical-sciences/staff-directory/ian-galbraith.htm
 
 [Lightning] : https://www.amazon.com/Dealers-Lightning-Xerox-PARC-Computer/dp/0887309895
 
